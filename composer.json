@@ -33,7 +33,7 @@
         },
         "merge-plugin": {
             "require": [
-                "vendor/govcms/config/composer.required.json"
+                "vendor/govcms/config/composer.config.json"
             ],
             "merge-extra": true,
             "merge-extra-deep": true,
