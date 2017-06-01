@@ -1,6 +1,6 @@
 {
     "name": "govcms/govcms-project",
-    "description": "A Composer-based installer for the govCMS Drupal Distribution",
+    "description": "[Experimental] Composer-based installer for a govCMS Drupal 8 distribution",
     "keywords": ["govCMS"],
     "type": "project",
     "license": "GPL-2.0+",
